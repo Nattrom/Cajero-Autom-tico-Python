@@ -1,7 +1,7 @@
 saldo = 1000
 pin_correcto = "1234"
 intentos = 3
-
+holaaaaaaa mundoo
 # Autenticación
 while intentos > 0:
     pin = input("Ingrese su PIN: ")
@@ -62,4 +62,5 @@ while True:
         break
 
     else:
+
         print("Opción inválida. Intente nuevamente.")
